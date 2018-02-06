@@ -1,0 +1,11 @@
+{
+  "name": "jquery-custom-inview",
+  "version": "0.1.0",
+  "description": "Custom version of jquery.inview based on https://github.com/zuk/jquery.inview",
+  "main": "jquery.inview.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ispot-tv/jquery.inview"
+  },
+  "license": "The MIT License (MIT)"
+}
